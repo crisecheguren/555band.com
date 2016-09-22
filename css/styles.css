@@ -1,0 +1,38 @@
+/* ID's */
+
+#logo {
+	margin: 10% 0 10% 0;
+	display: block;
+	width: 100%;
+	padding: 5% 0 5% 0;
+}
+
+#contact {
+	margin: 5% 0 5%;
+	padding: 3% 0 3%;
+}
+
+#link {
+	font-size: 2em;
+}
+
+/* Classes */
+
+
+/* CSS */
+body {
+	background-color: black;
+}
+
+a:link {
+color: white;
+text-decoration: none;
+}
+
+a:visited {
+color: slategrey;
+}
+
+a:hover {
+color: orange;
+}
